@@ -2,12 +2,12 @@
   <picture>
     <source
       width="256px"
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: ddark)"
       srcset="assets/revanced-headline/revanced-headline-vertical-dark.svg"
     >
     <img 
       width="256px"
-      src="assets/revanced-headline/revanced-headline-vertical-light.svg"
+      src="assets/revanced-headline/revanced-headline-veertical-light.svg"
     >
   </picture>
   <br>
